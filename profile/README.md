@@ -6,5 +6,5 @@ browsers, Markdown for AI agents and typed tools, and refuses pages with mistake
 - [Docs](https://hypralang.dev/docs/) · [Guides](https://hypralang.dev/guides/) ·
   [Starter](https://github.com/hypralang/hypra/tree/main/starter) · [hypralang.dev](https://hypralang.dev)
 
-`hypra-runtime` and `hypra-laravel` are read-only copies of folders in the main repository, for Packagist;
+`hypra-runtime` (PHP) and `hypra-laravel` are read-only copies of folders in the main repository, for Packagist;
 issues and changes go to [hypralang/hypra](https://github.com/hypralang/hypra).
